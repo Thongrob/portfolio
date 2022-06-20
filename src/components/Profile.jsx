@@ -15,7 +15,7 @@ function Profile() {
                         
                         <div className="objecttive pt-3">
                             <h6><strong>Career objective</strong></h6>
-                            <p>&emsp;&emsp;I spend my time,       I learned a lot language of programming for knowledge and skills to up.  This is my challenging I hope to be an expert on it next time. The learning  is never end.</p>
+                            <p>&emsp;&emsp;I spend my time, I learned a lot language of programming for knowledge and skills to up.  This is my challenging I hope to be an expert on it next time. The learning  is never end.</p>
                         </div>
                        <hr/>
                         <div className="education py-3">
