@@ -36,7 +36,7 @@ function Profile() {
                         <div className="experience ">
                             <h6><strong>Experience</strong></h6>
                             <div className="row">
-                                <p className="col-lg-3 col-sm-12">Mar 2015 – Aug 2021</p>
+                                <p className="col-lg-3 col-sm-12">Aug 2022 – Dec 2022</p>
                                 <dl className='col-lg-9 col-sm-12'>
                                     <p><strong>Web developer</strong></p>
                                     <p>WISAWAKAM SOFTWARE Co.,Ltd.</p>
