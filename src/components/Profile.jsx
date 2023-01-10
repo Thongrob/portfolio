@@ -28,35 +28,56 @@ function Profile() {
                             </dl>
                                 <p className="text-decoration-underline">Vocational Certificate  2008 - 2010</p>
                             <dl>
-                                <li>liakhonsithummarat Industrial And Community Education College</li>
+                                <li>Nakhon si thummarat Industrial And Community Education College</li>
                                 <li>Electronics department  <strong>GPA 3.49</strong></li>
                             </dl>
                         </div>
                         <hr />
-                        <div className="experience py-3">
+                        <div className="experience ">
                             <h6><strong>Experience</strong></h6>
-                            <div className="sub-experience d-flex justify-content-between">
-                                <p className="d-inline">Mar 2015 – Aug 2021</p>
-                                <dl>
-                                    <p><strong>Project engineer</strong></p>
-    	                            <p>Beyond Worldtech(Thailand) Co.,Ltd.</p>
-                                    <li>Configure NodeB 3G, 4G, 5G systems.</li>
-                                    <li>Configure IPv4, VLAN Baseband Unit.</li>
-                                    <li>Monitor statistical parameters.</li>
-                                    <li>Supevise installation.</li>
-                                    <li>View and fix problems for configuration L2/L3 switch.</li>
-                                    <li>Troubleshoot the problem in base station system.</li>
+                            <div className="row">
+                                <p className="col-lg-3 col-sm-12">Mar 2015 – Aug 2021</p>
+                                <dl className='col-lg-9 col-sm-12'>
+                                    <p><strong>Web developer</strong></p>
+                                    <p>WISAWAKAM SOFTWARE Co.,Ltd.</p>
+                                    <li>Develop UI follow requirements 's customer.</li>
+                                    <li>Develop Rest API with Node JS.</li>
+                                    <li>Connecting database</li>
+                                    <li>Write SQL query and stored procedure.</li>
+                                    <li>Solve issue in web application.</li>
+                                    <li>Deploy project on production.</li>
+                                </dl>
+                            </div>        
+                            <div className="row">
+                                <p className="col-lg-3 col-sm-12">Dec 2021– Jun 2022</p>
+                                <dl className='col-lg-9 col-sm-12'>
+                                    <p><strong>Engineer</strong></p>
+                                    <p>Samart Comtech Co.,Ltd.</p>
+                                    <li>DTRS configuration.</li>
+                                    <li>DTRS testing.</li>
                                 </dl>
                             </div>
+                            <div className="row">
+                                <p className="col-lg-3 col-sm-12">Mar 2015 – Aug 2021</p>
+                                <dl className='col-lg-9 col-sm-12'>
+                                    <p><strong>Project engineer</strong></p>
+                                    <p>Beyond Worldtech(Thailand) Co.,Ltd.</p>
+                                    <li>Supervise teams to install  NodeB 3G(WCDMA, UMTS), 4G(LTE), 5G(NR) systems follow the customer's standards during time scope.</li>
+                                    <li>Commisioning and integration for on sevice.</li>
+                                    <li>Monitor statistical parameters.</li>
+                                    <li>Verifying and problem-solving from VSWR, RTWP, PIM, Optical Power, Electrical.</li>
+                                    <li>Create report for PAT.</li>
+                                </dl>
+                            </div>        
                         </div>
                         <hr />
                         <div className="skills">
                             <h6><strong>Skills</strong></h6>
                             <dl>
-                                <li><strong>Front-end :</strong> HTML, CSS, Bootstrapt, JavaScript, Angular, React JS</li>
+                                <li><strong>Front-end :</strong> HTML, CSS, Bootstrapt, JQuery, AJAX, JavaScript, Angular, React JS</li>
                                 <li><strong>Back-end : </strong> PHP, C# .Net, Basic Python, Node JS, Rest API</li>
                                 <li><strong>Mobile :</strong> ReactNative</li>
-                                <li><strong>Devops :</strong> Git, Github, Netlify, Heroku</li>
+                                <li><strong>Devops :</strong> Git, Github, Netlify, Heroku, Azure</li>
                             </dl>
 
                         </div>
@@ -64,7 +85,7 @@ function Profile() {
                         <div className="tools">
                             <h6><strong>Tools</strong></h6>
                             <dl>
-                                <p>Postman, XAMPP, DBeaver, Microsoft Office, VS Code, Visual Studio, Arduino IDE, AutoCAD, Git, Wordpress</p>
+                                <p>Postman, XAMPP, Apache,  DBeaver, Microsoft Office, VS Code, Visual Studio, Arduino IDE, AutoCAD, Git, Wordpress, FileZilla, PostMan</p>
                             </dl>
                         </div>
                     </div>
